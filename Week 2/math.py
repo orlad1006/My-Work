@@ -2,7 +2,9 @@
 #Author: Orla Dowling
 # messing with maths
 
-1 +3
-answer = 1 + 3
-ans =  1 + 3
-print(ans)
+
+ans = (2 * 3) + 3
+#print("the answer is " +str(ans))
+print(f"the answer is {ans}")
+
+
