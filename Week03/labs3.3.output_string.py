@@ -1,4 +1,4 @@
-#labs3.2.output_string.py
+#labs3.3.output_string.py
 #Author: Orla Dowling
 #Simple program creating and outputting a string
 
