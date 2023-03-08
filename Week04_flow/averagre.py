@@ -1,4 +1,4 @@
-#for loops
+#average.py
 #Author: Orla Dowling
 
 #write a program taht keeps reading the number until the user enters 0
